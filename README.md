@@ -1,13 +1,16 @@
-Title of the project: Real Time Path Tracker
+**Title of the project:** Real Time Path Tracker
 
 
-Description of the project: PATH is the subway system that connects Jersey City and Manhattan, using PATH's public API, I created markers for each station and by clicking on the marker you get to see the status and ETA for the trains at the station.
+**Description of the project:**PATH is the subway system that connects Jersey City and Manhattan, using PATH's public API, I created markers for each station and by clicking on the marker you get to see the status and ETA for the trains at the station.
 
-![image](https://github.com/thiagosrpt/real_time_tracker/blob/2801cf7d55c116259dcc2f0a72b908a506d601b1/PATH_stations_popup_mapbox.png "Title" {width=40px height=400px})
+**How to Run:** Just download the PathTransit_Mapbox.html and open on the browser.
+
+**Roadmap of future improvements:** create fuction just so the ETA and statuses of the trains will update automatically every X seconds.
 
 
-How to Run: This is information someone would use to run your project on their machine.
+![image](https://github.com/thiagosrpt/real_time_tracker/blob/2801cf7d55c116259dcc2f0a72b908a506d601b1/PATH_stations_popup_mapbox.png)
 
-Roadmap of future improvements: What additional features or functionality would be helpful to a user? 
 
-License information: This should include information about the MIT license. 
+
+--------
+
