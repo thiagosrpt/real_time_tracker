@@ -1,7 +1,7 @@
 **Title of the project:** Real Time Path Tracker
 
 
-**Description of the project:**PATH is the subway system that connects Jersey City and Manhattan, using PATH's public API, I created markers for each station and by clicking on the marker you get to see the status and ETA for the trains at the station.
+**Description of the project:** PATH is the subway system that connects Jersey City and Manhattan, using PATH's public API, I created markers for each station and by clicking on the marker you get to see the status and ETA for the trains at the station.
 
 **How to Run:** Just download the PathTransit_Mapbox.html and open on the browser.
 
