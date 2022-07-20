@@ -17,4 +17,4 @@ This is an exercise on manipulating APIs and displaying data to the user in real
 * Download the files.
 * Open PathTransit_Mapbox.html
 
-![image](https://github.com/thiagosrpt/real_time_tracker/blob/2801cf7d55c116259dcc2f0a72b908a506d601b1/PATH_stations_popup_mapbox.png)
+<img src="https://github.com/thiagosrpt/real_time_tracker/blob/2801cf7d55c116259dcc2f0a72b908a506d601b1/PATH_stations_popup_mapbox.png"><
