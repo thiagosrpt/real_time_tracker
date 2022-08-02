@@ -18,3 +18,23 @@ This is an exercise on manipulating APIs and displaying data to the user in real
 * Open PathTransit_Mapbox.html
 
 <img src="https://github.com/thiagosrpt/real_time_tracker/blob/2801cf7d55c116259dcc2f0a72b908a506d601b1/PATH_stations_popup_mapbox.png" height="500">
+
+
+## How to Run
+
+Download the zip folder with the source code file and open the index.html on the browser of your choice.
+
+## Roadmap of future improvements
+- Make train ETAs update on its own every 15 or 30 seconds.
+- Add status icons to popups: green for ontime, red for delayed, etc.
+
+
+## License information
+
+MIT License - Copyright (c) 2022 Thiago Petrimperni
+<a href="https://github.com/thiagosrpt/MIT-eye-movement/blob/3acc937437620913e29b95d796fcc96d428a3018/LICENCE">Lincense Link</a>
+
+## Author
+
+Thiago Petrimperni
+Student at MIT - Full Stack Development with MERN
